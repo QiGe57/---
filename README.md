@@ -1,8 +1,7 @@
 # 银联高校极客挑战赛
-
+**数据建模赛道**
 大赛官网： https://college.upaas.unionpay.com/upgeek-web/home
 
-**数据建模赛道**
 
 ## 1.1 题目概述
 
